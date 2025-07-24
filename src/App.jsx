@@ -16,7 +16,7 @@ function App() {
   };
 
   const handleUnlockClick = () => {
-    if (inputValue === "Warrior") {
+    if (inputValue.toUpperCase() === "WARRIOR") {
       navigate("/baby");
     } else {
       setErrorMessage("Incorrect Code");

@@ -10,7 +10,7 @@ function UnlockPage() {
       <img
         src="/assets/announcement1.jpg"
         alt="Baby"
-        style={{ maxWidth: "500px", height: "auto" }}
+        style={{ maxWidth: "300px", height: "auto" }}
       />
       <h2 className="mb-4">Due in early 2026!</h2>
       <p>
