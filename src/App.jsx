@@ -20,7 +20,7 @@ function App() {
       navigate("/baby");
     } else {
       setErrorMessage("Incorrect Code");
-      setTimeout(() => setErrorMessage(""), 3000); // Hide after 3 seconds
+      setTimeout(() => setErrorMessage(""), 3000);
     }
   };
 

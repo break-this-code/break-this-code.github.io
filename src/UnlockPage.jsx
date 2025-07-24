@@ -8,11 +8,15 @@ function UnlockPage() {
     >
       <h1 className="mb-4">Little Baby Finger is on the way!</h1>
       <img
-        src="/assets/baby.jpg"
+        src="/assets/announcement1.jpg"
         alt="Baby"
-        style={{ maxWidth: "300px", height: "auto" }}
+        style={{ maxWidth: "500px", height: "auto" }}
       />
       <h2 className="mb-4">Due in early 2026!</h2>
+      <p>
+        If you are seeing this page, please reach out to me individually until
+        the others have figured out the code.
+      </p>
     </div>
   );
 }
